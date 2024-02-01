@@ -1,1 +1,2 @@
 Question A: The equivalent is the Project Owner is the Project Manager. The role of the Project Owner is one who is accountable for the success of the project, they provide directions, resources, and maximize the value. 
+Question B: A Scrum Master leads the Agile development and supports the Product Owner by relaying updates. The Product Owners manage the product backlog and eand maximize the value of the product.
