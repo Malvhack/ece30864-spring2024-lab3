@@ -1,2 +1,3 @@
 Question A: The equivalent is the Project Owner is the Project Manager. The role of the Project Owner is one who is accountable for the success of the project, they provide directions, resources, and maximize the value. 
 Question B: A Scrum Master leads the Agile development and supports the Product Owner by relaying updates. The Product Owners manage the product backlog and eand maximize the value of the product.
+Question C: The 3 Meetings are the Sprint Planning Meeting, which start the spring and determine what to complete in the upcoming sprint. Another is the Daily Scrum Meeting which is a daily meeting to plan for the day. The final is the Sprint Retrospective meeting which happens at the end of the sprint and discusses completed work.
